@@ -11,6 +11,7 @@ Cheat sheet for commands
 5. [Simple Express server setup](https://expressjs.com/en/starter/hello-world.html)
 6. [Access psql (postgres)](https://medium.com/@xueyingli66/start-using-postgresql-with-terminal-on-mac-787ab643c817)
 7. [If psql doesn't work, useful article to get it working](https://www.moncefbelyamani.com/how-to-upgrade-postgresql-with-homebrew/)
+8. [Google drive spreadsheet with other resources](https://docs.google.com/spreadsheets/d/1PKOG4r-4C42YczxTimLOLDVIWHABtnm9JBEIpKqbsm4/edit#gid=0)
 
 ## Git Commands
 
