@@ -9,6 +9,8 @@ Cheat sheet for commands
 3. [PostgreSQL Medium article for terminal commands](https://medium.com/@xueyingli66/start-using-postgresql-with-terminal-on-mac-787ab643c817)
 4. [Morgan logger npm package for Express.js servers](https://www.npmjs.com/package/morgan)
 5. [Simple Express server setup](https://expressjs.com/en/starter/hello-world.html)
+6. [Access psql (postgres)](https://medium.com/@xueyingli66/start-using-postgresql-with-terminal-on-mac-787ab643c817)
+7. [If psql doesn't work, useful article to get it working](https://www.moncefbelyamani.com/how-to-upgrade-postgresql-with-homebrew/)
 
 ## Git Commands
 
